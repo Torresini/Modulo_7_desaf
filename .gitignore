@@ -1,4 +1,4 @@
-airflow-data
+1airflow-data
 
 # These are some examples of commonly ignored file patterns.
 # You should customize this list as applicable to your project.
@@ -8,6 +8,9 @@ airflow-data
 # Node artifact files
 node_modules/
 dist/
+c:/
+fven/
+venv/
 
 # Compiled Java class files
 *.class
